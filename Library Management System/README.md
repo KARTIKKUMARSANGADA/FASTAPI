@@ -24,7 +24,7 @@ Backend API for a Library Management System built with FastAPI, SQLAlchemy, Post
 ## Project Structure
 
 ```text
-LMS/
+Library Management System/
   app/
     main.py
     config.py
