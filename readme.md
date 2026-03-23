@@ -5,19 +5,7 @@ This repository contains multiple FastAPI-based projects organized in a monorepo
 ---
 
 ## 📂 Projects Included
-
-### 📘 1. Student Management System
-A FastAPI-based backend for managing students.
-
-**Features:**
-- Create, update, delete students
-- Database integration (SQLAlchemy)
-- REST APIs
-- Alembic migrations
-
----
-
-### 📗 2. Library Management System
+### 📗 1. Library Management System
 Backend system to manage books and library operations.
 
 **Features:**
@@ -27,7 +15,7 @@ Backend system to manage books and library operations.
 
 ---
 
-### 💳 3. Stripe Payment Integration
+### 💳 2. Stripe Payment Integration
 FastAPI project demonstrating Stripe payment gateway integration.
 
 **Features:**
