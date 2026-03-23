@@ -62,4 +62,4 @@ def metrics():
 
 @app.get("/sentry-debug",tags=['Checking'])
 async def trigger_error():
-    division_by_zero = 1 / 0
+    division_by_zero = 10 / 5
